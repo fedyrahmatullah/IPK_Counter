@@ -1,0 +1,8 @@
+Nama anda : Test
+Nilai mutu semester ke - 1: 74.0
+jumlah SKS Semester ke - 1: 20.0
+IPK : 3.70
+Nilai mutu semester ke - 2: 77.0
+jumlah SKS Semester ke - 2: 20.0
+IPK : 3.85
+IPK Total : 3.77
